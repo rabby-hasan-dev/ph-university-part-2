@@ -1,0 +1,30 @@
+------  video:1 ----
+1. Higher order Function
+2. RequestHandler =>  from express js NB: RequestHandler define auto req,res,next type
+2. catchAsync
+
+-------   video-2 ------
+
+1. mddleware 
+2. refactor controller data using catchAsync promise 
+3. create utils catchAsync for re-using 
+
+---------- video -3 ----------
+
+
+-------video-8 ---------
+
+1.buisness logic 
+2. ref ------> mongoose schema method
+
+-------video-10 ---------
+
+1. lean() => mongoose method
+
+
+finally ----> nedd recap this module
+
+
+
+
+
